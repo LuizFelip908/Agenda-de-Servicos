@@ -1,0 +1,8 @@
+com.example.agendasdeservios.app-pngs-0 C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\build\generated\res\pngs\debug
+com.example.agendasdeservios.app-updated_navigation_xml-1 C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\build\generated\updated_navigation_xml\debug
+com.example.agendasdeservios.app-packageDebugResources-2 C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.agendasdeservios.app-packageDebugResources-3 C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.agendasdeservios.app-debug-4 C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.agendasdeservios.app-debug-5 C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\debug\res
+com.example.agendasdeservios.app-main-6 C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\res
+gradleHome-0 C:\Users\CLIENTE\.gradle
