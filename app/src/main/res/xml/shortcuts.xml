@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="novo_agendamento"
+        android:enabled="true"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:shortcutShortLabel="@string/shortcut_novo_agendamento_short"
+        android:shortcutLongLabel="@string/shortcut_novo_agendamento_long">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.example.agendasdeservios"
+            android:targetClass="com.example.agendasdeservios.MainActivity">
+            <extra
+                android:name="ROUTE"
+                android:value="novo_agendamento" />
+        </intent>
+    </shortcut>
+    <shortcut
+        android:shortcutId="novo_cliente"
+        android:enabled="true"
+        android:icon="@drawable/ic_launcher_foreground"
+        android:shortcutShortLabel="@string/shortcut_novo_cliente_short"
+        android:shortcutLongLabel="@string/shortcut_novo_cliente_long">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="com.example.agendasdeservios"
+            android:targetClass="com.example.agendasdeservios.MainActivity">
+            <extra
+                android:name="ROUTE"
+                android:value="clientes" />
+        </intent>
+    </shortcut>
+</shortcuts>
