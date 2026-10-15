@@ -125,13 +125,13 @@
 69-->[androidx.window:window:1.5.0] C:\Users\CLIENTE\.gradle\caches\9.6.0\transforms\bb3270d1a8739930605076c37a4a6021\transformed\window-1.5.0\AndroidManifest.xml:28:13-37
 70
 71        <service
-71-->[androidx.room:room-runtime:2.6.1] C:\Users\CLIENTE\.gradle\caches\9.6.0\transforms\e36616db71a1dd1432ac6e704a8de8f8\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+71-->[androidx.room:room-runtime-android:2.8.5] C:\Users\CLIENTE\.gradle\caches\9.6.0\transforms\997ba0f4a6bd8c89a1cf587e11440e1f\transformed\room-runtime\AndroidManifest.xml:24:9-28:63
 72            android:name="androidx.room.MultiInstanceInvalidationService"
-72-->[androidx.room:room-runtime:2.6.1] C:\Users\CLIENTE\.gradle\caches\9.6.0\transforms\e36616db71a1dd1432ac6e704a8de8f8\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+72-->[androidx.room:room-runtime-android:2.8.5] C:\Users\CLIENTE\.gradle\caches\9.6.0\transforms\997ba0f4a6bd8c89a1cf587e11440e1f\transformed\room-runtime\AndroidManifest.xml:25:13-74
 73            android:directBootAware="true"
-73-->[androidx.room:room-runtime:2.6.1] C:\Users\CLIENTE\.gradle\caches\9.6.0\transforms\e36616db71a1dd1432ac6e704a8de8f8\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+73-->[androidx.room:room-runtime-android:2.8.5] C:\Users\CLIENTE\.gradle\caches\9.6.0\transforms\997ba0f4a6bd8c89a1cf587e11440e1f\transformed\room-runtime\AndroidManifest.xml:26:13-43
 74            android:exported="false" />
-74-->[androidx.room:room-runtime:2.6.1] C:\Users\CLIENTE\.gradle\caches\9.6.0\transforms\e36616db71a1dd1432ac6e704a8de8f8\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+74-->[androidx.room:room-runtime-android:2.8.5] C:\Users\CLIENTE\.gradle\caches\9.6.0\transforms\997ba0f4a6bd8c89a1cf587e11440e1f\transformed\room-runtime\AndroidManifest.xml:27:13-37
 75
 76        <receiver
 76-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\CLIENTE\.gradle\caches\9.6.0\transforms\fe73125f41886f4507ef3471217cbb9e\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20

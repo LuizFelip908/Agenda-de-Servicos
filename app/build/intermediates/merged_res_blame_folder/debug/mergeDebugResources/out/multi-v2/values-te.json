@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.agendasdeservios.app-mergeDebugResources-46:/values-te/values-te.xml",
+            "outputFile": "com.example.agendasdeservios.app-mergeDebugResources-43:/values-te/values-te.xml",
             "map": [
                 {
                     "source": "C:\\Users\\CLIENTE\\.gradle\\caches\\9.6.0\\transforms\\cee9dadcadb6e4d18a54a971f8a54d5c\\transformed\\core-1.19.1\\res\\values-te\\values-te.xml",

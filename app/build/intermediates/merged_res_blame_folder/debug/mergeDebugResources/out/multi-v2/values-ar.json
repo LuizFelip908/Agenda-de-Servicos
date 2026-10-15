@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.agendasdeservios.app-mergeDebugResources-46:/values-ar/values-ar.xml",
+            "outputFile": "com.example.agendasdeservios.app-mergeDebugResources-43:/values-ar/values-ar.xml",
             "map": [
                 {
                     "source": "C:\\Users\\CLIENTE\\.gradle\\caches\\9.6.0\\transforms\\cee9dadcadb6e4d18a54a971f8a54d5c\\transformed\\core-1.19.1\\res\\values-ar\\values-ar.xml",
