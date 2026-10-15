@@ -13,6 +13,11 @@ int drawable ic_launcher_foreground 0x0
 int mipmap ic_launcher 0x0
 int mipmap ic_launcher_round 0x0
 int string app_name 0x0
+int string shortcut_novo_agendamento_long 0x0
+int string shortcut_novo_agendamento_short 0x0
+int string shortcut_novo_cliente_long 0x0
+int string shortcut_novo_cliente_short 0x0
 int style Theme_AgendasDeServiços 0x0
 int xml backup_rules 0x0
 int xml data_extraction_rules 0x0
+int xml shortcuts 0x0

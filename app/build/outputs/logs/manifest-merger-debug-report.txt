@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:2:1-28:12
-INJECTED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:2:1-52:12
+INJECTED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:2:1-52:12
 MERGED from [androidx.navigation:navigation-common:2.8.8] C:\Users\CLIENTE\.gradle\caches\9.6.0\transforms\f4695e474c58829984315f19bb273321\transformed\navigation-common-2.8.8\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.8.8] C:\Users\CLIENTE\.gradle\caches\9.6.0\transforms\af89f185b2005453000fd7b0d21ddd37\transformed\navigation-runtime-2.8.8\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.8.8] C:\Users\CLIENTE\.gradle\caches\9.6.0\transforms\928f3324406b56032f4e650814d325b2\transformed\navigation-common-ktx-2.8.8\AndroidManifest.xml:2:1-7:12
@@ -90,9 +90,21 @@ MERGED from [androidx.annotation:annotation-experimental:1.5.1] C:\Users\CLIENTE
 		INJECTED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:5:22-74
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:7:22-78
 application
-ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:5:5-26:19
-INJECTED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:5:5-26:19
+ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:9:5-50:19
+INJECTED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:9:5-50:19
 MERGED from [androidx.compose.ui:ui-test-manifest:1.11.0] C:\Users\CLIENTE\.gradle\caches\9.6.0\transforms\34b9254eed4d9e121ed44399df444543\transformed\ui-test-manifest-1.11.0\AndroidManifest.xml:22:5-27:19
 MERGED from [androidx.compose.ui:ui-test-manifest:1.11.0] C:\Users\CLIENTE\.gradle\caches\9.6.0\transforms\34b9254eed4d9e121ed44399df444543\transformed\ui-test-manifest-1.11.0\AndroidManifest.xml:22:5-27:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.11.0] C:\Users\CLIENTE\.gradle\caches\9.6.0\transforms\1d1d1d9d123a628969726f153d735f07\transformed\ui-tooling\AndroidManifest.xml:22:5-26:19
@@ -118,43 +130,71 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\CL
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.19.1] C:\Users\CLIENTE\.gradle\caches\9.6.0\transforms\cee9dadcadb6e4d18a54a971f8a54d5c\transformed\core-1.19.1\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:14:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:8:9-54
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:12:9-54
 	android:roundIcon
-		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:15:9-54
 	android:icon
-		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:13:9-43
 	android:allowBackup
-		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:10:9-35
 	android:theme
-		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:13:9-55
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:17:9-55
 	android:dataExtractionRules
-		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:7:9-65
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:11:9-65
 activity#com.example.agendasdeservios.MainActivity
-ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:14:9-25:20
+ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:19:9-34:20
 	android:label
-		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:17:13-45
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:22:13-45
 	android:windowSoftInputMode
-		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:19:13-55
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:24:13-55
 	android:exported
-		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:16:13-36
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:21:13-36
 	android:theme
-		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:18:13-59
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:23:13-59
 	android:name
-		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:15:13-41
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:20:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:25:13-29:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:26:17-69
 	android:name
-		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:26:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:28:17-77
 	android:name
-		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:28:27-74
+meta-data#android.app.shortcuts
+ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:31:13-33:53
+	android:resource
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:33:17-50
+	android:name
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:32:17-53
+receiver#com.example.agendasdeservios.notification.AgendamentoAlarmReceiver
+ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:37:13-66
+receiver#com.example.agendasdeservios.notification.BootReceiver
+ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:41:9-48:20
+	android:enabled
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:43:13-35
+	android:exported
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:42:13-54
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:45:13-47:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml:46:25-76
 uses-sdk
 INJECTED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\CLIENTE\AndroidStudioProjects\Agenda-de-Servicos\app\src\main\AndroidManifest.xml

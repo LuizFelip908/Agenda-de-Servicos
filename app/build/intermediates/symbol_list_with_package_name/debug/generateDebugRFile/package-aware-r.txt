@@ -14,6 +14,11 @@ drawable ic_launcher_foreground
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string shortcut_novo_agendamento_long
+string shortcut_novo_agendamento_short
+string shortcut_novo_cliente_long
+string shortcut_novo_cliente_short
 style Theme_AgendasDeServiços
 xml backup_rules
 xml data_extraction_rules
+xml shortcuts

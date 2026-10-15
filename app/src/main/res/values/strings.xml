@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Agendas de serviços</string>
+    <string name="app_name">Agendas de Serviços</string>
+    <string name="shortcut_novo_agendamento_short">Novo Agendamento</string>
+    <string name="shortcut_novo_agendamento_long">Criar Novo Agendamento</string>
+    <string name="shortcut_novo_cliente_short">Clientes</string>
+    <string name="shortcut_novo_cliente_long">Gerenciar Clientes</string>
 </resources>
